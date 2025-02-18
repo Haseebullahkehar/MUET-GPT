@@ -62,7 +62,4 @@ Developed by Haseebullah and team for university students at MUET.
 ## License
 This project is licensed under the MIT License.
 
----
-Feel free to contribute and improve the chatbot! 🚀
-
 
